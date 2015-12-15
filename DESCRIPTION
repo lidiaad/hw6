@@ -1,0 +1,13 @@
+Package: hw6
+Type: Package
+Title: Homework 6
+Version: 1.0
+Date: 2015-12-15
+Author: Lidia Majchrzyk
+Maintainer: Lidia Majchrzyk <lidia.majchrzyk@gmail.com>
+Description: Three exercises from hw6
+License: GPL (>= 2)
+Imports:
+    Rcpp (>= 0.12.2)
+LinkingTo: Rcpp
+RoxygenNote: 5.0.1
